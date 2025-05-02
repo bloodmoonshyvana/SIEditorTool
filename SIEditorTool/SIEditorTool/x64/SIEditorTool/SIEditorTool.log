@@ -1,0 +1,7 @@
+﻿  SIEditorTool.cpp
+C:\Users\Thdue\Desktop\SIEditorTool\SIEditorTool\SIEditorTool.cpp(139,20): error C2660: "LevelEditor::DrawEditor": Funktion akzeptiert keine 2 Argumente
+      C:\Users\Thdue\Desktop\SIEditorTool\SIEditorTool\src\LevelEditor.h(15,10):
+      Siehe Deklaration von "LevelEditor::DrawEditor"
+      C:\Users\Thdue\Desktop\SIEditorTool\SIEditorTool\SIEditorTool.cpp(139,20):
+      bei Anpassung der Argumentliste "(HWND, HDC)"
+  
