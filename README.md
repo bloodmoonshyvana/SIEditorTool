@@ -170,15 +170,3 @@ direkte ÖOOS-Distribution
 
 interne Engine-Deployments
 
-🧬 Branding / Logos (optional Vorschlag)
-
-S I T K
-
-Vier Buchstaben
-
-Minimalistisch
-
-Dunkel-Violett / Schwarz (wie deine UI)
-
-Logo: Mischung aus Würfel (Block), DNA-Strang (USB Bones) und Kreis (ÖOOS)
-
