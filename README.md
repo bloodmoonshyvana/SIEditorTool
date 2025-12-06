@@ -1,42 +1,5 @@
 🌑 Schwarze-Inversion Tool-Kit (SITK)
-All-in-One Creation Suite für Spiele, Mods, KI & Welten
-
-SITK ist das zentrale Entwicklungs- und Kreativwerkzeug innerhalb deines
-⚙️ ÖOOS (Ökologisches Overlay Operating System)
-und der
-🧠 C.U.S.D.A.S.-AI-Architektur
-
-Es verbindet Editor, Modding-Framework, Engine-Backend, KI-Assistenten und Publishing-Tools zu einem einzigen, kompakten, GPU-optimierten System.
-
-🎯 Warum „Schwarze-Inversion Tool-Kit“?
-
-Weil das Tool nicht einfach ein Editor ist.
-Es ist:
-
-Entwicklungsstudio
-
-Modding-Werkstatt
-
-KI-Co-Programmierer
-
-Level-Editor
-
-Rig-System
-
-Export-Fabrik
-
-Welten-Generator
-
-KI-Optimierer
-
-Snapshot-Compiler
-
-Engine-Stabilisator
-
-…alles in EIN Programm.
-
-🔥 Offizielle Produktbeschreibung (kurz, perfekt für GitHub und Website)
-🌑 Schwarze-Inversion Tool-Kit
+All-in-One Creation Suite für Spiele, Mods, KI & Welte
 
 Das ultimative Multi-Game-Modding- und Game-Creation-System – mit KI, DX12/Vulkan-Engine und USB/ESB-Bone-Technologie.
 
