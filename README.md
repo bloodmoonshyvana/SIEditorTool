@@ -1,87 +1,197 @@
-# 🎮 SI Editor Tool - All-in-One Game Modding & Design Suite
-SIEditor =schwarze inversion da ich ein eignes spiel noch erstellen will :)
-**Autor:** [BloodmoonShyvana](https://github.com/bloodmoonshyvana)  
-**Status:** In Entwicklung  
-**Lizenz:** Derzeit privat / closed beta
+🌑 Schwarze-Inversion Tool-Kit (SITK)
+All-in-One Creation Suite für Spiele, Mods, KI & Welten
 
----
+SITK ist das zentrale Entwicklungs- und Kreativwerkzeug innerhalb deines
+⚙️ ÖOOS (Ökologisches Overlay Operating System)
+und der
+🧠 C.U.S.D.A.S.-AI-Architektur
 
-## 🔥 Ziel dieses Projekts
-Ein **eigenes All-in-One-Tool**, das klassische Modding-Tools wie Blender, Creation Kit, Daz3D oder Unreal Engine teilweise oder vollständig ersetzt – fokussiert auf:
+Es verbindet Editor, Modding-Framework, Engine-Backend, KI-Assistenten und Publishing-Tools zu einem einzigen, kompakten, GPU-optimierten System.
 
-- Fallout 4 / Skyrim (alle Editionen)
-- Minecraft Java & Bedrock (separat behandelt)
-- 7 Days to Die
-- Eigene Spiele (z. B. "Schwarze Inversion")
+🎯 Warum „Schwarze-Inversion Tool-Kit“?
 
----
+Weil das Tool nicht einfach ein Editor ist.
+Es ist:
 
-## ✨ Features (geplant / in Entwicklung)
+Entwicklungsstudio
 
-### 🎨 Modding-Editor
-- Menüstruktur für Auswahl des Zielspiels
-- Rig-Unterstützung: Genesis 1–9 + Custom Rigs
-- Bearbeitung bestehender Rigs
-- Import/Export für `.nif`, `.hkx`, `.fbx`, `.obj`, `.gltf`
-- DAZ/Blender-Kompatibilität
+Modding-Werkstatt
 
-### 🧱 Level-Design
-- Viewport mit Layer-Unterstützung
-- Import von Gelände/Tilesets/Assets
-- Drag & Drop Platzierung
-- Multi-Spiel-Unterstützung (z. B. Minecraft Blöcke, Skyrim Meshes)
-- Export/Deploy nach Spielstruktur
+KI-Co-Programmierer
 
-### 🤖 KI-Unterstützung *(später)*
-- User-Verhalten analysieren
-- Automatisierte Vorschläge (Licht, Export, Fehlerkorrekturen)
-- KI, die aus der Community lernt
+Level-Editor
 
-### 🔧 Toolkits pro Spiel
-- Fallout 4: .esm/.esp/.ba2 Packing, Rigs, Animation, Scripts
-- Skyrim LE/SE/AE: Rigs, Creation Kit-kompatibel, Animation
-- Minecraft Java: `.json`, `.mcmeta`, `.nbt`, `.schem`, Datapack Export
-- Minecraft Bedrock: `.mcaddon`, `.mcpack`, `.geo.json`, `.behavior`
-- 7 Days to Die: Unity Prefabs, XML-Modding, Assets
+Rig-System
 
-### 💾 Release-System
-- Export für Mod-Plattformen (Nexus, CurseForge, Mod.io, Konsolen*)
-- Debug/Release umschaltbar
+Export-Fabrik
 
----
+Welten-Generator
 
-## 📌 Mithelfen?
-Du kannst helfen bei:
-- GUI / ImGui / DirectX / OpenGL-Integration
-- Level-Editor-Logik
-- Rig-/Bone-Editor (Genesis-kompatibel)
-- Spiel-spezifischen Export-Plugins (Fallout 4, Skyrim, Minecraft usw.)
-- KI-Systeme / Vorschlagslogik (Machine Learning)
+KI-Optimierer
 
-> 👉 Interesse? Einfach Issues aufmachen oder mich anschreiben!
+Snapshot-Compiler
 
----
+Engine-Stabilisator
 
-## 🔒 Lizenz & Status
-- Derzeit privat – geplant für Open Beta
-- Lizenz wird angepasst, sobald 1.0 erreicht ist
+…alles in EIN Programm.
 
----
+🔥 Offizielle Produktbeschreibung (kurz, perfekt für GitHub und Website)
+🌑 Schwarze-Inversion Tool-Kit
 
-## 📅 Roadmap (vereinfacht)
+Das ultimative Multi-Game-Modding- und Game-Creation-System – mit KI, DX12/Vulkan-Engine und USB/ESB-Bone-Technologie.
 
-- [x] Grundstruktur GUI erstellt
-- [x] Menüleiste vorbereitet
-- [ ] Level-Editor Grundmodul (Startphase)
-- [ ] Rigs & Animation integriert
-- [ ] Exporter pro Spiel
-- [ ] KI-Supportsystem Alpha
-- [ ] Public Testphase
+SITK ist eine modulare High-End-Creatorsuite, die Künstlerinnen, Modderinnen und Game-Entwickler*innen die gleichen Werkzeuge bietet wie AAA-Studios – jedoch kompakter, effizienter und tief in die Hardware integriert.
 
----
+Es unterstützt:
 
-## 📎 GitHub Projekt
-[🔗 GitHub Repository ansehen](https://github.com/bloodmoonshyvana)
+Fallout 4
 
-> Fragen oder Feedback? → Issue eröffnen oder Nachricht senden!
+Skyrim (LE/SE/AE)
 
+Minecraft (Java/Bedrock)
+
+7 Days to Die
+
+Eigene Spiele durch ÖOOS / deine Engine
+
+Lilith (User-Assistentin)
+
+Vision-ONNX-Modelle
+
+Hardware-Optimierungs-AI
+
+🚀 SITK – Hauptmodule
+🎨 1. SITK-Editor
+
+Hochperformantes Modelling-, Rigging- und Animationstool
+
+GPU-Morphing
+
+Genesis-Kompatibilität
+
+USB/ESB Bones
+
+Mesh-Repair
+
+Weight-Painting
+
+DX12/ Vulkan Rendering
+
+🧱 2. SITK-LevelDesigner
+
+Drag-&-Drop Weltenbau
+
+AI-gestützte Light-Placer
+
+Terrain-Editor
+
+Entity-Tools
+
+Export in ÖOOS-Archiv oder Spieleordner
+
+🎮 3. SITK Game-Toolkits
+Fallout 4 / Skyrim Toolkit
+
+.nif, .hkx, .ba2
+
+Rig-Builder
+
+Animation-Preview
+
+Quest-/Dialogue-Framework
+
+Minecraft Java Toolkit
+
+.json Modeler
+
+Datapack-Generator
+
+Biome-Editor
+
+Block-Designer
+
+Schematic-Exporter
+
+Minecraft Bedrock Toolkit
+
+.mcaddon Builder
+
+Actor & Geometry .geo.json
+
+Behavior Editor
+
+7 Days to Die Toolkit
+
+Prefab-Editor
+
+Zombie AI Editor
+
+Unity-Asset-Importer
+
+🤖 4. SITK-AI Module
+
+Die KI erkennt Fehler, optimiert Workflows, stabilisiert Engine-Performance und gibt Empfehlungen — ähnlich wie ein Senior-Developer im Studio.
+
+Rig-Fehlerkorrektur
+
+Mesh-Analyse
+
+Performance-Profiler
+
+Vorschläge für Export / Shader / LOD
+
+Voice-Assistant (Lilith)
+
+Age-Gate / NSFW-Schutzsystem
+
+Sicherheit & Anti-Tamper (Cum Datenbank, HWID-Check)
+
+📦 5. SITK Snapshot-System
+
+.silithsnap Export
+
+Voxel- & Mesh-basierte Weltzustände
+
+KI-gestützte Wiederherstellung
+
+Kompatibel mit ÖOOS-OS Layern
+
+💾 6. SITK Release Factory
+
+Automatisierbare Export-Pipelines:
+
+Nexus Mods
+
+CurseForge
+
+Mod.io
+
+direkte ÖOOS-Distribution
+
+interne Engine-Deployments
+
+🧬 Branding / Logos (optional Vorschlag)
+
+S I T K
+
+Vier Buchstaben
+
+Minimalistisch
+
+Dunkel-Violett / Schwarz (wie deine UI)
+
+Logo: Mischung aus Würfel (Block), DNA-Strang (USB Bones) und Kreis (ÖOOS)
+
+Wenn du willst, entwerfe ich dir Logos, Icons, Branding-Grafiken oder ein UI-Mockup.
+
+📚 Möchtest du jetzt…?
+
+Ich kann dir direkt erstellen:
+
+✅ README.md komplett in Markdown
+✅ GitHub Landing Page „Schwarze-Inversion Tool-Kit“
+✅ Dokumentationsstart (Docs/)
+✅ Roadmap + Release Notes
+✅ Ein offizielles PDF-Designboard
+✅ Name für jedes Modul (Brand Names)
+✅ Ein UI-Mockup (Beschreibung oder Code)
