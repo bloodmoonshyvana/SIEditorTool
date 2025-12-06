@@ -182,16 +182,3 @@ Dunkel-Violett / Schwarz (wie deine UI)
 
 Logo: Mischung aus Würfel (Block), DNA-Strang (USB Bones) und Kreis (ÖOOS)
 
-Wenn du willst, entwerfe ich dir Logos, Icons, Branding-Grafiken oder ein UI-Mockup.
-
-📚 Möchtest du jetzt…?
-
-Ich kann dir direkt erstellen:
-
-✅ README.md komplett in Markdown
-✅ GitHub Landing Page „Schwarze-Inversion Tool-Kit“
-✅ Dokumentationsstart (Docs/)
-✅ Roadmap + Release Notes
-✅ Ein offizielles PDF-Designboard
-✅ Name für jedes Modul (Brand Names)
-✅ Ein UI-Mockup (Beschreibung oder Code)
